@@ -1,0 +1,12 @@
+data/cb_objects.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_funds.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_ipos.sql filter=lfs diff=lfs merge=lfs -text
+data/license.txt filter=lfs diff=lfs merge=lfs -text
+data/cb_milestones.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_offices.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_people.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_relationships.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_acquisitions.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_degrees.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_funding_rounds.sql filter=lfs diff=lfs merge=lfs -text
+data/cb_investments.sql filter=lfs diff=lfs merge=lfs -text
