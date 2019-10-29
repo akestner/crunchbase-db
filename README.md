@@ -4,6 +4,9 @@ Includes data dump (in `./data`) from historical Crunchbase DB.
 
 See https://data.crunchbase.com/docs/2013-snapshot for more info. 
 
+## Database Schema
+
+![Crunchbase DB Schema](data/schema.png?raw=true "Crunchbase DB Schema")
 
 ## Getting started
 
